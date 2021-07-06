@@ -31,18 +31,21 @@ body{
      display: flex;
      width: 100%;
      margin-top: 100px;
-    background-image: url(top-banner.png);
+    background-image: url(7.png);
      background-repeat: none;
-     background-size: cover;
+     margin: 0;
+     
 
      
 }
 .sec-page-first-div{
      margin-left: 120px;
+     border-radius: 20px;
 }
 .about-me{
      margin-left: 200px;
      margin-right: 50px;
+     margin-top: 150px;
 }
 #same{
      display: flex;
@@ -62,22 +65,35 @@ body{
      margin-right: 100px;
 }
 .title{
-     box-shadow: 10px 10px 20px wheat;
+     box-shadow: 10px 10px 15px gray;
      margin-left: 12px;
      margin-right: 12px;
      margin-top: 12px;
      margin-bottom: 12px;
+     border-radius: 10px;
      
 }
 .three-title{
      display: flex;
      margin-left: 12px;
 }
+
+
 .image{
      height: 300px;
      width: 400px;
      margin-left: 20px;
+     border-radius: 15px;
 }
 .racipie-title{
      margin-left: 17px;
+}
+.details{
+     font-size: 14px;
+}
+.sec-page-first-div img{
+     border-radius: 50%;
+}
+.first-div-second-part img{
+    border-radius: 10%;
 }
