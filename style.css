@@ -97,3 +97,56 @@ body{
 .first-div-second-part img{
     border-radius: 10%;
 }
+.discount-percentage{
+     font-size: 100px;
+     margin-top: 100px;
+     margin-left: 30px;
+     color: white;
+     background-color: brown;
+     padding: 30px 40px;
+}
+.third-page{
+     display: flex;
+     width: 100%;
+     margin-top: 200px;
+}
+.discount-image{
+     margin-left: 100px;
+     height: 600px;
+     width: 550px;
+     
+     margin-bottom: 100px;
+}
+.food-details{
+     margin-left: 75px;
+     font-size: 20px;
+     color:hsla(0, 28%, 13%, 0.89);
+}
+.link-button-two{
+     text-decoration: none;
+     background-color: rgba(247, 72, 8, 0.904);
+     color: white;
+     padding: 10px 20px;
+     border-radius: 20px; 
+     text-align: center; 
+     margin-left: 30px;
+}
+.following{
+     text-align: center;
+     color: white;
+     margin-bottom: 50px;
+     font-size: 40px;
+}
+.last-page{
+     background-color: black;
+     padding: 90px 30px;
+}
+.link-button-three{
+     display: flex;
+     text-decoration: none;
+     background-color: brown;
+     color: white;
+     text-align: center;
+     padding: 10px 20px;
+     border-radius: 10px;
+}
